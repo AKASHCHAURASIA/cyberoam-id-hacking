@@ -1,4 +1,4 @@
 # cyberoam-id-hacking
-how to hack cyberoam id which have simple digit password
+how to hack cyberoam id which have 
 put your victim username in java code.
-this code crack upto 4 digit password.
+create password list file and start brute forcing.enjoy !
